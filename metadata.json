@@ -1,0 +1,5 @@
+{
+  "name": "Compliance Assistant Chatbot",
+  "description": "A chatbot that answers questions about compliance frameworks like BCBS 239, SOX, audit control testing, or AML transaction monitoring, using a knowledge base and the Gemini API.",
+  "requestFramePermissions": []
+}
